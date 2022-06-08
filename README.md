@@ -5,7 +5,7 @@
 💪 빠르진 않지만 한걸음 한걸음씩!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungjob1114@gmail.com)](mailto:jungjob1114@gmail.com)
-[![PortFolio](https://img.shields.io/badge/PortFolio-Move_PortFolio-00C7B7?style=flat-square&logo=Netlify&logoColor=#00C7B7&link=https://oit-self.netlify.app)](https://oit-self.netlify.app)
+[![PortFolio](https://img.shields.io/badge/PortFolio-Move_PortFolio-000000?style=flat-square&logo=Vercel&logoColor=#000000&link=https://oit-myself.vercel.app)](https://oit-myself.vercel.app/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjungChulOh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jungChulOh)
 
