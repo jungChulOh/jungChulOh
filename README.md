@@ -27,9 +27,3 @@
 [![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white)](https://github.com/jungChulOh)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white)](https://github.com/jungChulOh)
 [![SCSS](https://img.shields.io/badge/SCSS-C96195.svg?&style=flat-square&logo=Sass&logoColor=white)](https://github.com/jungChulOh)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungChulOh&hide=kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jungChulOh)](https://solved.ac/jungChulOh) -->
